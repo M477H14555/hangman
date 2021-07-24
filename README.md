@@ -24,6 +24,6 @@ python main.py
 - https://music.youtube.com/
 
 ---
-Professionally by a professional idiot  🧊
+Professionally made by a professional idiot  🧊
 
 ---
