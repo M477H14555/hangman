@@ -10,7 +10,7 @@ The game ends when one figures out the word, or you fully draw the pole and the 
 
 that's it really :]
 
-###TO RUN THE GAME
+### TO RUN THE GAME
 
  ➞ Simply, go onto main.py and push run. 
 
