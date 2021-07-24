@@ -1,5 +1,5 @@
 
-##HANGMAN
+## HANGMAN
 
 
 ![hangman](images/hangman.png)
